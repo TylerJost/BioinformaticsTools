@@ -14,3 +14,6 @@ I use a basic logistic regression to predict what kind of foostrike a person wil
 
 ## Steganography
 I briefly got really into classical ciphers which led me to steganography, which is hiding data in images. Here I put a bunch of sonnets into an image of the Baylor Sciences Building. Currently working towards a decoding function as well as a way to store images. 
+
+## Thesaurizer
+There is this hilarious bot on reddit that takes a sentence and replaces each word with a synonym. I decided to recreate a bot in R that does this same function. It webscrapes thesaurus.com for synonyms. Usually it doesn't make sense, but sometimes it is hilarious. 
